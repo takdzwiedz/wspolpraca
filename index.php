@@ -1,3 +1,9 @@
 <?php
 
-dodano tekst
+dodano teks
+
+
+kg
+
+kj
+j
