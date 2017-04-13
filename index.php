@@ -12,3 +12,4 @@ khkgjh
 
 jgj
 hg
+moje zmiany jaro
